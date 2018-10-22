@@ -1,0 +1,15 @@
+create directory
+open terminal
+git init
+ls -ltr
+git remote add origin https://github.com/raman-garg902/demo.git
+git add *
+git status
+git commit -m "initialcommit"
+git push
+git push origin master
+git status
+
+
+
+
