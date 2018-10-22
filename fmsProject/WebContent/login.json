@@ -1,0 +1,18 @@
+{
+    "admin":{
+        "username":"LMadmin",
+        "password":"admin"
+    },
+    "client1":{
+        "username":"clientId1",
+        "password":"clientId1"
+    },
+     "client2":{
+        "username":"clientId2",
+        "password":"clientId2"
+    },
+     "client3":{
+        "username":"clientId3",
+        "password":"clientId3"
+    }
+}

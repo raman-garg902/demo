@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Olli Demo Day - Route Map</name>
+	<open>1</open>
+	<StyleMap id="icon-1548-0288D1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1548-0288D1-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1548-0288D1-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1548-0288D1-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-6.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1826-BDBDBD-nodesc-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-7.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1548-0288D1-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-6.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1603-0288D1-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-1.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1538-0F9D58-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1538-0F9D58-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1538-0F9D58-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1538-0F9D58-nodesc-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-8.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="icon-1603-0288D1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1603-0288D1-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1603-0288D1-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1538-0F9D58-nodesc-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-8.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1611-757575-nodesc-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-13.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="icon-1502-9C27B0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1502-9C27B0-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1502-9C27B0-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1884-A52714-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-5.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1596-7CB342-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1596-7CB342-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1596-7CB342-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1611-757575-nodesc-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-13.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="icon-1522-F9A825">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1522-F9A825-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1522-F9A825-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1502-9C27B0-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1522-F9A825-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-4.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1502-9C27B0-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1596-7CB342">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1596-7CB342-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1596-7CB342-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1884-A52714-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-5.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1826-BDBDBD-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1826-BDBDBD-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1826-BDBDBD-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1501-FF5252-nodesc-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-12.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1596-7CB342-nodesc-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1603-0288D1-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-1.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1611-757575-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1611-757575-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1611-757575-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+        <color>64FFFFFF</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+        <color>64FFFFFF</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-1596-7CB342-nodesc-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1826-BDBDBD-nodesc-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-7.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="icon-1501-FF5252-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1501-FF5252-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1501-FF5252-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-1884-A52714">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1884-A52714-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1884-A52714-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1501-FF5252-nodesc-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-12.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1596-7CB342-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1522-F9A825-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-4.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1596-7CB342-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>My Places</name>
+		<Placemark>
+			<name>Olli Path for Demo Day</name>
+			<styleUrl>#msn_ylw-pushpin#white</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.27415945564276,39.21988536603632,0 -77.27480806385103,39.2206729600086,0  -77.27623972958651,39.21994921048717,0 -77.27643184954144,39.21995894664238,0 -77.27657726460663,39.21999949262996,0 -77.27711278170411,39.22045381009919,0 -77.27759315433686,39.22090543929969,0 -77.27770892105012,39.22102793452282,0 -77.27782924961402,39.22126513702815,0 -77.2778939571388,39.22146813184843,0 -77.27794964369259,39.22166213028335,0 -77.27795577972772,39.221879761065,0 -77.27791743150236,39.22216871203089,0 -77.27759704375586,39.22199497328245,0 -77.27737391459262,39.22193366559044,0 -77.27717829239452,39.22194353543435,0 -77.2769961565913,39.22200804736534,0 -77.27677200255387,39.22217014232354,0 -77.27745783189779,39.22301450273026,0 -77.27708231186358,39.22337191492081,0 -77.27671893515543,39.22363781273339,0 -77.27591428868536,39.22275223173521,0 -77.27543598290613,39.22260780374025,0 -77.27502178899452,39.22253444086302,0 -77.27478366875073,39.22249225774516,0 -77.27462334105577,39.22244559479461,0 -77.27407921791946,39.22218216114711,0 -77.27372368367291,39.22205252273285,0 -77.27341317880232,39.2219196506725,0 -77.27329001034821,39.22179023438785,0 -77.27323849787449,39.22146553090001,0 -77.27321967496395,39.2209966496962,0 -77.27325675038532,39.22071217337094,0 -77.27331876462755,39.22040085807117,0 -77.27337618499152,39.22017839898592,0 -77.27354014628111,39.21995597930731,0 -77.2738922236112,39.21960177018883,0 -77.27413040832418,39.21984010837577,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

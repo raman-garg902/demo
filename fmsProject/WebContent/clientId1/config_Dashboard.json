@@ -1,0 +1,35 @@
+{
+    "VehicleId": ["2480","1357"],
+    "ClientId" : "clientId1",
+    "ClientName" : "USA",
+    "BusStopsNumber": "2",
+    "BusStopsNames": {
+        "1": "MeetOlli",
+        "2": "Innovation"
+    },
+    "BusStopsCoordinates": [{
+        "lat": 39.21983966,
+        "lng": -77.27412534
+    }, {
+        "lat": 39.22204689,
+        "lng": -77.27690224
+    }],
+    "DashboardLogo1": "./images/logo1.png",
+    "DashboardLogo2": "",
+    "OlliMapIcons": ["./images/ollimap1.png", "./images/ollimap2.png"],
+    "OlliListIcons": ["./images/ollilist1.png", "./images/ollilist2.png"],
+    "ImageLocations": {
+        "busStopIcon": "./images/busstop.png"
+    },
+    "KmlFile": "./kml/olliroute.kml",
+    "MapZoomLevel": 17.4,
+    "MapLocation": {
+        "lat": 39.221739, 
+        "lng": -77.275515
+    },
+
+    "GoogleMapsApiKey": "AIzaSyCs9k9W8PyLIgs6hdEERLKm4m2tE-qcx28",
+    "AWSURL" : "https://gmk1qjbqu5.execute-api.us-east-1.amazonaws.com/live/location",
+    "AWSAuthKey" : ""
+
+}
