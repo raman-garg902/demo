@@ -21,6 +21,7 @@ protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws Se
 	session.invalidate();
 	session.getMaxInactiveInterval();
 	resp.sendRedirect("index.jsp");
+      System.out.println("Well Done");
 }
 
 }
